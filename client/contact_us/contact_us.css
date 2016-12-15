@@ -1,0 +1,16 @@
+#contact>div>div>#addr_line_1,#contact>div>div>#addr_line_2{
+	/*border: 1px solid black;*/
+	margin-left: 20px;
+}
+#contact>div>div>#title{
+	/*border: 1px solid black;*/
+	font-weight: bolder;	
+}
+/*#contact>div>div>#addr_line_2{
+	border: 1px solid black;
+	margin-left: 20px;
+}*/
+
+#courses_checkbox > span{
+	padding-right: 10px;
+}
